@@ -1,0 +1,45 @@
+﻿  app.c
+  card.c
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\server.h(1,9): warning C4068: unknown pragma 'onc'
+  (compiling source file 'app.c')
+  
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\server.h(1,12): error C2014: preprocessor command must start as first nonwhite space
+  (compiling source file 'app.c')
+  
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\server.h(7,16): error C2011: 'ST_cardData_t': 'struct' type redefinition
+  (compiling source file 'app.c')
+  C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.h(9,16):
+  see declaration of 'ST_cardData_t'
+  
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\server.h(59,1): error C1021: invalid preprocessor command 'endife'
+  (compiling source file 'app.c')
+  
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(10,5): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(12,26): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(16,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(22,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(26,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(45,26): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(49,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(58,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(62,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(81,25): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(85,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(91,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(95,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(105,21): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(109,21): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(115,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\card.c(123,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  server.c
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\server.h(1,9): warning C4068: unknown pragma 'onc'
+  (compiling source file 'server.c')
+  
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\server.h(1,12): error C2014: preprocessor command must start as first nonwhite space
+  (compiling source file 'server.c')
+  
+C:\Users\Sant\Downloads\Payment_Application\App\Application2\Application2\server.h(59,1): error C1021: invalid preprocessor command 'endife'
+  (compiling source file 'server.c')
+  
+  terminal.c
+  Generating Code...
